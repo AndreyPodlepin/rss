@@ -1,0 +1,82 @@
+                      <datarepeater type="rss" src="https://website.com/rss_feed/">
+												<layout label="label-name">
+													<table width="100%" cellpadding="0" cellspacing="0">
+														<tr>
+															<td style="padding:0 0 20px;">
+																<table width="100%" cellpadding="0" cellspacing="0">
+																	<tr>
+																		<td style="background:#fffffe;">
+																			<table width="100%" cellpadding="0" cellspacing="0">
+																				<tr>
+																					<td style="padding:50px 0 16px 48px; font:10px/14px Arial, Helvetica, sans-serif, Montserrat; color:#a4a4a4; text-transform:uppercase;">
+																						<rssauthor></rssauthor>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td>
+																						<table width="100%" cellpadding="0" cellspacing="0">
+																							<tr>
+																								<td style="padding:0 0 50px 0;">
+																									<table width="100%" cellpadding="0" cellspacing="0">
+																										<tr>
+																											<td>
+																												<table width="100%" cellpadding="0" cellspacing="0">
+																													<tr>
+																														<td class="w-18" width="48" valign="top">
+																															<img editable="true" src="img-decoration-01.png" width="5" style="vertical-align:top;" alt="decoration image" />
+																														</td>
+																														<td class="fs-18 lh-22 pb-15 pr-18 l-black h-u" style="padding:0 48px 28px 0; font:bold 23px/27px Arial, Helvetica, sans-serif, Montserrat; color:#4a4a4a;">
+																															<rssitemlink><rsstitle></rsstitle></rssitemlink>
+																														</td>
+																													</tr>
+																												</table>
+																											</td>
+																										</tr>
+																										<tr>
+																											<td style="padding:0 0 0 48px;">
+																												<table width="100%" cellpadding="0" cellspacing="0">
+																													<tr class="thold">
+																														<th class="tfoot" align="left" style="vertical-align:top;">
+																															<table width="100%" cellpadding="0" cellspacing="0">
+																																<tr>
+																																	<td class="plr-18">
+																																		<table width="100%" cellpadding="0" cellspacing="0">
+																																			<tr>
+																																				<td class="fs-13 lh-22" style="font:13px/21px Arial, Helvetica, sans-serif, Montserrat; color:#4a4a4a;">
+																																					<rssbody paragraphs="1"></rssbody>
+																																				</td>
+																																			</tr>
+																																		</table>
+																																	</td>
+																																</tr>
+																															</table>
+																														</th>
+																														<th class="trow" width="34" height="13"></th>
+																														<th class="thead" width="283" align="left" style="vertical-align:top;">
+																															<table width="100%" cellpadding="0" cellspacing="0">
+																																<tr>
+																																	<td class="wi-100p custom-maxw-400" align="center" style="padding:4px 0 0;">
+																																		<rssimage width="283"></rssimage>
+																																	</td>
+																																</tr>
+																															</table>
+																														</th>
+																													</tr>
+																												</table>
+																											</td>
+																										</tr>
+																									</table>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																				</tr>
+																			</table>
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+												</layout>
+												</datarepeater>
